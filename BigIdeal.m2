@@ -31,7 +31,7 @@ newPackage(
     	DebuggingMode => true
     	)
 
-export{bigIdeal, jasonIdeal, socleCheck, BaseField}
+export{"bigIdeal", "jasonIdeal", "socleCheck", "BaseField"}
 
 -- Usage: Type "load bigIdeal.m2" to load the commands in this file.
 -- Then the command "bigIdeal(g,{m_1,...,m_n})" generates the ideal $I_{g,(m_1,...,m_n)}$ in the paper.
